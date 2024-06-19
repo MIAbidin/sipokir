@@ -1,7 +1,0 @@
-pass = Sipokir1!
-
-
-db
-name = Sipokir
-username = Sipokir
-pass = Sipokir1!
